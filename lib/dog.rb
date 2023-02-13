@@ -11,4 +11,4 @@ class Dog
 
     puts lassie.name
 end
-Footer
+
